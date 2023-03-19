@@ -6,7 +6,7 @@ Tested up to: 6.1
 Requires PHP: 7.1
 
 # Different buttons. You choose the text.
-<src img="https://raphaelheide.com/donateme/donateex.png">
+<src img="https://raphaelheide.com/donateme/button/donatemeex.png">
 
 Easy, simple setup to add Donate Me button as shortcode.
 
