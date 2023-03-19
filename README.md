@@ -5,7 +5,7 @@ Requires at least: 5.5
 Tested up to: 6.1
 Requires PHP: 7.1
 
-# Different buttons. You choose the text.
+# Different buttons: you choose the text
 <img src="https://raphaelheide.com/donateme/button/donatemeex.png">
 
 Easy, simple setup to add Donate Me button as shortcode.
