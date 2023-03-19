@@ -5,6 +5,8 @@ Requires at least: 5.5
 Tested up to: 6.1
 Requires PHP: 7.1
 
+<src img="https://raphaelheide.com/donate/donateex.jpg">
+
 Easy, simple setup to add Donate Me button as shortcode.
 
 # Description
