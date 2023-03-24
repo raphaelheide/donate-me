@@ -36,7 +36,9 @@ function donateme_action( $links, $file ) {
 	}
 	return $links;
 }
+
 add_filter( 'plugin_action_links', 'donateme_action', 10, 2 );
+
 
 
 ?>
