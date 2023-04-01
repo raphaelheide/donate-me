@@ -2,7 +2,7 @@
 Donate Me - PayPal Donation Plugin for WordPress
 # Donate Me WordPress Plugin
 Requires at least: 5.5
-Tested up to: 6.1
+Tested up to: 6.2
 Requires PHP: 7.1
 
 # Different buttons: you choose the text
