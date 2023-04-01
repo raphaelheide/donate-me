@@ -1,9 +1,10 @@
 <?php
 /*
 Plugin Name: DONATE ME
-Plugin URI: 
+Plugin URI: https://raphaelheide.com/donateme
 Description: Easy. Simple setup to add PayPal Donation in multiple currencies shortcode and supports recurring donation.
-Version: 1.1
+Version: 1.2.1
+Tags: donate me, paypal, paypal donation, donation, donations, shortcode, donate, button, add donation, recurrent donation, payment
 Author: Raphael Heide
 License: GPL2
 Text Domain: donateme 
@@ -36,9 +37,7 @@ function donateme_action( $links, $file ) {
 	}
 	return $links;
 }
-
 add_filter( 'plugin_action_links', 'donateme_action', 10, 2 );
-
 
 
 ?>
